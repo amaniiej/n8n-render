@@ -35,9 +35,9 @@ services:
       - key: WEBHOOK_URL
         value: https://n8n-9xcx.onrender.com/
       - key: N8N_ENCRYPTION_KEY
-        value: YOUR_ENCRYPTION_KEY_HERE
+        value: y8F2kLwzqT9vXb3pR6sD1eH7jM4cVn0u
       - key: GENERIC_TIMEZONE
-        value: America/Sao_Paulo
+        value: Africa/Addis_Ababa
       - key: TZ
         value: America/Sao_Paulo
       - key: N8N_LOG_LEVEL
